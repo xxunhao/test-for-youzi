@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Last updated: 2026-05-09 10:25:48 Beijing Time
 """
 Web Clock - 在浏览器中显示实时时钟
 运行: python web_clock.py
